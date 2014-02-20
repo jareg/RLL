@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/config_server.dir/main.cpp.o  -o config_server -rdynamic 
