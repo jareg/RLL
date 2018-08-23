@@ -1,1 +1,1 @@
-Literature
+Russian language and literature
