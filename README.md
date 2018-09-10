@@ -1,1 +1,1 @@
-Russian language and literature
+scripts
