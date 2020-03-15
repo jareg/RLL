@@ -1,10 +1,8 @@
-
 DEFAULT_SESSION=awesome
-
+xset -dpms
 setxkbmap -layout "us,ru" -option "grp:alt_shift_toggle"
 amixer sset 'Master' 100%
-nvidia-settings -a CurrentMetaMode="DPY-1:768x576+0+0{viewportin=768x576,viewportout=700x556+25+20}"
-
+xhost +si:localuser:root
 case $1 in
     awesome)	exec awesome ;;
     icewm)	exec icewm ;;
