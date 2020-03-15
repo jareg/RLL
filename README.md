@@ -1,1 +1,1 @@
-local scripts & configs
+Local scripts & configs
